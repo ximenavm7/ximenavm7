@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there! I'm Ximena 😁
 
+### About me
+
+- 💻 I'm an undergrad Computer Science engineer at the University of Las Américas Puebla
+- 👾 My dream is to work as a game developer
+- 🌱 I'm currently learning about Production Engineering at MLH
+- 📫 How to reach me: Send me an email at ximevzquez@gmail.com
 <!--
 **ximenavm7/ximenavm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

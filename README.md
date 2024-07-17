@@ -2,10 +2,13 @@
 
 ### About me
 
-- 💻 I'm an undergrad Computer Science engineer at the University of Las Américas Puebla
+- 💻 I'm an undergrad Computer Science engineer at University of Las Américas Puebla
 - 👾 My dream is to work as a game developer
 - 🌱 I'm currently learning about Production Engineering at MLH
 - 📫 How to reach me: Send me an email at ximevzquez@gmail.com
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ximenavm7&show_icons=true&locale=en" alt="Ximena" /></p>
+
 <!--
 **ximenavm7/ximenavm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
